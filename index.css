@@ -1,0 +1,59 @@
+.backimage{
+	background-image: url(sid1.png);
+	background-size: cover;
+	max-width: 40px;
+	object-fit: auto;
+	margin: 0px;
+	max-width: 100%;
+  height: auto;
+	
+}
+.name{
+	margin-top: 40px;
+}
+/*.bg-dark{
+	background-color: white; 
+	border :none;
+}*/
+/*.navbar-light{
+	background: transparent;
+	background-image: none;
+	background-color: none;
+	box-shadow: none;
+}
+*/
+.check{
+	height: 1000px;
+}
+.quote{
+	margin-top: 100px;
+	margin-left: 80px;
+}
+.quotefont{
+	font-family: 'Open Sans', sans-serif;;
+}
+.blue{
+	color: #2888e8;
+}
+.red{
+	color: ;
+}
+.green{
+	color: #456b14;
+}
+.orange{
+	color: #dc751a;
+}
+.yellow{
+	color: #d4c823;
+}
+
+
+.sid1{
+	top: -1x;
+	position: relative;
+	margin-top: 100px;
+}
+.conborder{
+
+}
